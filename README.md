@@ -3,6 +3,10 @@
 
 This script crawls a website starting from a given URL and downloads media files (audio, video, images, GIFs) into categorized folders.
 
+## Disclaimer
+
+This script is intended for use in compliance with all applicable laws and regulations. Users are responsible for ensuring that their use of this script does not violate any laws or ethical guidelines. It is important to obtain proper authorization before crawling and downloading content from any website. The creators of this script are not responsible for any misuse.
+
 ## Requirements
 
 - Python 3.x
